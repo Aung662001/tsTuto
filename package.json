@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "name": "tstuto",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "tsc script.ts && nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aung662001/tsTuto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aung662001/tsTuto/issues"
+  },
+  "homepage": "https://github.com/Aung662001/tsTuto#readme",
+  "description": ""
+}
